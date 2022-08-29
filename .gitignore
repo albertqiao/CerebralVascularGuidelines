@@ -13,3 +13,5 @@ main.pdf
 *.fdb_latexmk
 *.out
 *.pdf
+
+*.ps1
